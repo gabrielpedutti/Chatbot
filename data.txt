@@ -1,0 +1,314 @@
+[
+  {
+    "nome": "Solo Leveling II",
+    "genero": "Ação, Aventura",
+    "diretor": "Shunsuke Nakashige",
+    "estudio": "A-1 Pictures",
+    "estreia": "04/01",
+    "episodios": 13
+  },
+  {
+    "nome": "Dr. Stone: Science Future",
+    "genero": "Ação, Aventura, Ficção Científica",
+    "diretor": "Shinya Iino",
+    "estudio": "TMS Entertainment",
+    "estreia": "09/01",
+    "episodios": 24
+  },
+  {
+    "nome": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu",
+    "genero": "Ação, Aventura, Fantasia",
+    "diretor": "Katsumi Ono",
+    "estudio": "BN Pictures",
+    "estreia": "11/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Castlevania Nocturne II",
+    "genero": "Ação, Aventura, Fantasia",
+    "diretor": "Adam Deats, Sam Deats",
+    "estudio": "Powerhouse Animation Studios",
+    "estreia": "16/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Fate/ Strange Fake",
+    "genero": "Ação, Aventura, Fantasia",
+    "diretor": "Shun Enokido",
+    "estudio": "A-1 Pictures",
+    "estreia": "31/12",
+    "episodios": 1
+  },
+  {
+    "nome": "Grisaia: Phantom Trigger",
+    "genero": "Ação, Aventura, Drama",
+    "diretor": "Kousuke Murayama",
+    "estudio": "Bibury Animation Studio",
+    "estreia": "01/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Link Click Bridon Arc",
+    "genero": "Sobrenatural, Suspense, Drama",
+    "diretor": "Haoling Li",
+    "estudio": "CMC Media",
+    "estreia": "27/12",
+    "episodios": 12
+  },
+  {
+    "nome": "Ishura II",
+    "genero": "Ação, Aventura, Drama",
+    "diretor": "Yuki Ogawa",
+    "estudio": "Passione",
+    "estreia": "08/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+    "genero": "Ação, Aventura, Comédia",
+    "diretor": "Tsuyoshi Nagasawa",
+    "estudio": "CloverWorks",
+    "estreia": "10/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Übel Blatt",
+    "genero": "Ação, Aventura, Fantasia",
+    "diretor": "Takashi Naoya",
+    "estudio": "Satelight | Staple Entertainment",
+    "estreia": "10/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Magic Maker ~Isekai Mahou no Tsukurikata~ (How to Perform Alternate World Magic)",
+    "genero": "Fantasia, Isekai, Aventura",
+    "diretor": "Kazuomi Koga (The Banished Former Hero Lives as He Pleases)",
+    "estudio": "Studio DEEN (KonoSuba, Nanatsu no Taizai)",
+    "estreia": "08/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Izure Saikyou no Renkinjutsushi? (Possibly the Greatest Alchemist of All Time)",
+    "genero": "Ação, Aventura, Fantasia, Isekai",
+    "diretor": "Naoyuki Kuzuya (Saiyuki Gaiden, Bikkuriman 2000, Bikini Warriors)",
+    "estudio": "Studio Comet (Eiyuuou Bu wo Kiwameru, School Rumble)",
+    "estreia": "01/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Hazure Skill “Kinomi Master” (Failure Skill “Nut Master”)",
+    "genero": "Ação, Aventura, Fantasia",
+    "diretor": "Ryuichi Kimura (Aikatsu!, Kemono Friends 2)",
+    "estudio": "Asahi Production (Otonari ni Ginga, Shuumatsu no Izetta)",
+    "estreia": "31/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Mahoutsukai no Yakusoku (Promise of Wizard)",
+    "genero": "Ação, Aventura, Fantasia",
+    "diretor": "Tatsuwa Naoyuki (Nisekoi, Koufuku Graffiti)",
+    "estudio": "LIDENFILMS (Tokyo Revengers, Koi to Uso)",
+    "estreia": "06/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta – Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru (Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest)",
+    "genero": "Ação, Aventura, Fantasia",
+    "diretor": "Kenta Oonishi (Ore Dake Haireru Kakushi Dungeon, Marine Shukkou!!)",
+    "estudio": "Okuru to Noboru (Tomodachi Game, Kenka Dokugaku)",
+    "estreia": "09/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Sakamoto Days",
+    "genero": "Ação, Aventura, Comédia",
+    "diretor": "Masaki Watanabe (KADO – The Right Answer, Bartender)",
+    "estudio": "TMS Entertainment (Dr.Stone, ReLife, Kanojo Okarishimasu!)",
+    "estreia": "11/01",
+    "episodios": 24
+  },
+  {
+    "nome": "Sentai Red Isekai de Boukensha ni Naru (The Red Ranger Becomes an Adventurer in Another World)",
+    "genero": "Comédia, Isekai, Fantasia",
+    "diretor": "Keiichiro Kawaguchi (Eiyū Kyōshitsu, Ochikobore Fruit Tart)",
+    "estudio": "SATELIGHT (Fairy Tail, Nanbaka)",
+    "estreia": "12/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Akuyaku Reijou Tensei Oji-san (The Middle-Aged Man that Reincarnated as a Villainess)",
+    "genero": "Comédia, Isekai, Fantasia",
+    "diretor": "Tetsuya Takeuchi (Ep de Tengoku Daimakyo, Lycoris Recoil)",
+    "estudio": "Ajia-do (Kakushigoto, Honzuki no Gekokujou)",
+    "estreia": "09/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo II",
+    "genero": "Comédia, Romance, Slice of Life",
+    "diretor": "Hikaru Satou",
+    "estudio": "Bibury Animation",
+    "estreia": "12/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Baban Baban Ban Vampire",
+    "genero": "Comédia, Romance, BL",
+    "diretor": "Itsurou Kawasaki",
+    "estudio": "GAINA",
+    "estreia": "11/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Kisaki Kyouiku kara Nigetai Watashi",
+    "genero": "Comédia, Romance, Fantasia",
+    "diretor": "Shinobu Tagashira",
+    "estudio": "EMT Squared",
+    "estreia": "05/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Honey Lemon Soda",
+    "genero": "Comédia, Romance, Slice of Life",
+    "diretor": "Hiroshi Nishikiori",
+    "estudio": "J.C. Staff",
+    "estreia": "08/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+    "genero": "Comédia, Romance, Slice of Life",
+    "diretor": "Shingo Tanabe",
+    "estudio": "Millepensee",
+    "estreia": "04/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Kono Kaisha ni Suki na Hito ga Imasu",
+    "genero": "Comédia, Romance, Slice of Life",
+    "diretor": "Naoko Takeichi",
+    "estudio": "BLADE",
+    "estreia": "06/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+    "genero": "Comédia, Romance, Slice of Life",
+    "diretor": "Yoshiaki Okumura",
+    "estudio": "Synergy SP",
+    "estreia": "06/01",
+    "episodios": 12
+  },
+  {
+    "nome": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+    "genero": "Comédia, Romance, Ecchi",
+    "diretor": "Hisashi Saito",
+    "estudio": "Quad",
+    "estreia": "04/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Class no Dai Kirai na Joshi to Kekkon suru Koto ni Natta",
+    "genero": "Comédia, Romance, Slice of Life",
+    "diretor": "Hiroyuki Oshima",
+    "estudio": "Studio Gokumi | AXsiZ",
+    "estreia": "05/01",
+    "episodios": 12
+  },
+   {
+    "nome": "Nihon e Youkoso Elf-san (Welcome to Japan, Ms. Elf!)",
+    "genero": ["Comédia", "Romance", "Slice of Life"],
+    "diretor": "Tohru Kitahata",
+    "estudio": "Zero-G",
+    "estreia": "10/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Kusuriya no Hitorigoto II (The Apothecary Diaries II)",
+    "genero": ["Aventura", "Slice of Life", "Comédia", "Fantasia"],
+    "diretor": "Norihiro Naganuma",
+    "estudio": "TOHO Animation x OLM",
+    "estreia": "10/01",
+    "episodios": 25
+  },
+  {
+    "nome": "Zenshu",
+    "genero": ["Slice of Life", "Drama"],
+    "diretor": "Mitsue Yamasaki",
+    "estudio": "MAPPA",
+    "estreia": "05/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Tasokare Hotel",
+    "genero": ["Sobrenatural", "Drama"],
+    "diretor": "Kousuke Kuremizu",
+    "estudio": "PRA",
+    "estreia": "03/01",
+    "episodios": null
+  },
+  {
+    "nome": "Ameku Takao no Suiri Karte (Ameku Takao’s Detective Karte)",
+    "genero": ["Slice of Life", "Drama", "Mistério"],
+    "diretor": "Kazuya Iwata",
+    "estudio": "project No.9",
+    "estreia": "01/01",
+    "episodios": null
+  },
+  {
+    "nome": "1-funkan Dake Iretemo Ii yo… Share House no Himitsu Rule (The Share House’s Secret Rule)",
+    "genero": ["Adulto", "Drama", "Romance"],
+    "diretor": null,
+    "estudio": null,
+    "estreia": "05/01",
+    "episodios": 8
+  },
+  {
+    "nome": "Douse Koishite Shimaunda (Anyway, I’m Falling in Love with You)",
+    "genero": ["Slice of Life", "Drama", "Romance"],
+    "diretor": "Junichi Yamamoto",
+    "estudio": "Typhoon Graphics",
+    "estreia": "09/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Hana wa Saku, Shura no Gotoku (Flower and Asura)",
+    "genero": ["Drama", "Slice of Life"],
+    "diretor": "Ayumu Uwano",
+    "estudio": "Studio Bind",
+    "estreia": "07/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Jibaku Shounen Hanako-kun II (Toilet-Bound Hanako-kun II)",
+    "genero": ["Sobrenatural", "Slice of Life", "Comédia", "Drama"],
+    "diretor": "Masaki Kitamura",
+    "estudio": "Lerche | Studio Hibari",
+    "estreia": "12/01",
+    "episodios": null
+  },
+  {
+    "nome": "Watashi no Shiawase na Kekkon 2 (My Happy Marriage Season 2)",
+    "genero": ["Drama", "Romance", "Slice of Life", "Fantasia"],
+    "diretor": "Takehiro Kubota",
+    "estudio": "Kinema Citrus",
+    "estreia": "06/01",
+    "episodios": 12
+  },
+  {
+    "nome": "BanG Dream! Ave Mujica",
+    "genero": ["Slice of Life", "Música", "Drama"],
+    "diretor": "Koudai Kakimoto",
+    "estudio": "Sanzigen",
+    "estreia": "02/01",
+    "episodios": 12
+  },
+  {
+    "nome": "Momentary Lily",
+    "genero": ["Slice of Life", "Ação", "Fantasia"],
+    "diretor": "Katsumasa Yokomine",
+    "estudio": "GoHands",
+    "estreia": "02/01",
+    "episodios": 12
+  }
+]
