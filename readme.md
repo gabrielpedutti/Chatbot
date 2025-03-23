@@ -33,3 +33,4 @@ OtakuBot é um assistente virtual especializado em responder perguntas sobre ani
 
 ## Vídeo demonstrativo de uso
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RfAI58XsGUY?si=Axem7O5KNAKSFUNn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
